@@ -1,4 +1,4 @@
-# newdef Language
+# newdef Language (WIP)
 A custom programming language, built using C. It currently simulates the working of a programming language with basic operations such as printing the output on the terminal using variables and basic mathematical operations. `.hello` files are the code to be executed.
 
 
